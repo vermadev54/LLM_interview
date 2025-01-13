@@ -3,17 +3,6 @@
 This repository contains over 100+ interview questions for Large Language Models (LLM) used by top companies like Google, NVIDIA, Meta, Microsoft, and Fortune 500 companies. Explore questions curated with insights from real-world scenarios, organized into 15 categories to facilitate learning and preparation.
 
 ---
-
-#### You're not alone—many learners have been reaching out for detailed explanations and resources to level up their prep.
-
-#### You can find answers here, visit [Mastering LLM](https://www.masteringllm.com/course/llm-interview-questions-and-answers?previouspage=allcourses&isenrolled=no#/home).
-#### Use the code `LLM50` at checkout to get **50% off**
-
----
-
-![Image Description](interviewprep.jpg)
-
----
 ## Table of Contents
 
 1. [Prompt Engineering & Basics of LLM](#prompt-engineering--basics-of-llm)
